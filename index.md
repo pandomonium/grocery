@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
 # Link to HTML
-[Browse For Goods](Browse-Goods.html)
+<a href="Browse-Goods.html">Browse For Groceries.html</a>
 
 You can use the [editor on GitHub](https://github.com/pandomonium/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
